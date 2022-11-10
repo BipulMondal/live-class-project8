@@ -4,6 +4,6 @@
 
 This Project Is available in netlify also.
 
-[Netlify link]()
+[Netlify link](https://app.netlify.com/sites/project8-live-class/overview)
 
-![badge]()
+![badge](https://img.shields.io/badge/Live--Class-Project8-9cf)
